@@ -1,0 +1,8 @@
+,#,Name,Type 1,Type 2,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary,Total,Total2
+2,3,Venusaur,Grass,Poison,80,82,83,100,100,80,1,False,671.5,525
+3,3,VenusaurMega Venusaur,Grass,Poison,80,100,123,122,120,80,1,False,800.5,625
+50,45,Vileplume,Grass,Poison,75,80,85,110,90,50,1,False,637.5,490
+76,70,Weepinbell,Grass,Poison,65,90,50,85,45,55,1,False,514.0,390
+77,71,Victreebel,Grass,Poison,80,105,65,100,70,70,1,False,641.0,490
+651,590,Foongus,Grass,Poison,69,55,45,55,55,15,5,False,410.0,294
+652,591,Amoonguss,Grass,Poison,114,85,70,85,80,30,5,False,649.5,464
